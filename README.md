@@ -1,10 +1,10 @@
 # nuxt2-cafelle
 
-## About
+## `about`
 
-This is v2 of `cafelle` made now with nuxt2. This website supports cafelle, an up-and-coming small business that sells coffee in Lapu-Lapu City
+This is v2 of `cafelle` made now with nuxt2. This project supports cafelle, an up-and-coming small business that sells coffee for only 80php in Lapu-Lapu City, Cebu.
 
-## Build Setup
+## `build`
 
 ```bash
 # install dependencies
